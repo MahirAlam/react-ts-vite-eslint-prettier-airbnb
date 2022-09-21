@@ -1,4 +1,4 @@
-# Release notes
+# A React Typescript Vite ESLint Prettier Tailwind Template
 
 This is an opinionated starting point, to get you going with React.
 
